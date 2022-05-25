@@ -1,0 +1,35 @@
+{
+    "name": "hollow-knight-extension-pack",
+    "displayName": "Hollow Knight Theme (with Extensions)",
+    "description": "An extension pack consisting of the Hollow Knight color theme and modified versions of background, Synthwave 84 & Power Mode.",
+    "version": "0.0.2",
+    "publisher": "emericoude",
+    "author": {
+        "name": "Emeric Coude"
+    },
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "be5invis.vscode-custom-css",
+        "emericoude.hollow-knight-theme",
+        "RobbOwen.synthwave-vscode",
+        "hoovercj.vscode-power-mode",
+        "shalldie.background"
+    ],
+    "keywords": [
+        "extension pack",
+        "theme",
+        "background",
+        "bloom",
+        "glow",
+        "hollow knight",
+        "unity",
+        "dark",
+        "power mode",
+        "synthwave"
+    ]
+}
