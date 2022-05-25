@@ -4,7 +4,7 @@ This is an extension pack (set of extensions) made for anyone to be able to use 
 
 **IF THIS OR ANY FILE I ASK YOU TO EDIT IS EXTREMELY LONG AND LAGGY, DO ALT+Z, it should help (somewhat).**
 
-**TO GET IT WORKING**
+**INSTRUCTIONS** || Uninstall instruction at the end
 1. In your json settings (CTRL+SHIFT+P -> Preferences: Open Setting (JSON)), copy paste the settings below
 
     //BACKGROUND SETTINGS
